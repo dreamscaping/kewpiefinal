@@ -15,7 +15,7 @@ function draw() {
   background(255);
   fill(255);
   orbitControl();
-  rotateY(0.5);
+  rotateZ(0.5);
   model(kewpie);
 
 }
